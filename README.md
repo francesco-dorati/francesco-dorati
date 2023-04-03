@@ -1,9 +1,9 @@
 # Hello!
 - 👋 I’m @francesco-dorati
-- 🌱 I’m currently in high school
-- 📖 Languages: Python, JavaScript, C
+- 🎓 Computer Engineering student ad Politecnico di Milano
+- 📖 Languages: C, Python, JavaScript, Swift
 - ⚙️ Technologies: Flask, Node.js, Vue.js, jQuery
-- 🎓 Certificates:
+- 📜 Certificates:
   - Harvard CS50 ([edX](https://courses.edx.org/certificates/a469115579334077a6a304fe3a29f03b))
 - 👤 Profiles:
   - edX: [u/francescodorati](https://profile.edx.org/u/francescodorati)
