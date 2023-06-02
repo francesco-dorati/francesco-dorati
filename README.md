@@ -1,6 +1,6 @@
 # Hello!
 - 👋 I’m @francesco-dorati
-- 🎓 Computer Engineering student ad Politecnico di Milano
+- 🎓 Computer Engineering student at Politecnico di Milano
 - 📖 Languages: C, Python, JavaScript, Swift
 - ⚙️ Technologies: Flask, Node.js, Vue.js, jQuery
 - 📜 Certificates:
