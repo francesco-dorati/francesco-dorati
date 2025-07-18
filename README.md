@@ -5,8 +5,8 @@
 
 ### 🔧 Skills & Interests  
 - 🧠 AI and machine learning
-- 🤖 Robotics & computer vision
-- 🔌 Embedded programming & microcontrollers  
+- 🤖 Robotics and computer vision
+- 🔌 Embedded programming and microcontrollers  
 - 💻 C, C++ and Python development
   
 ---
